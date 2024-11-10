@@ -3,4 +3,4 @@ Korzystając z okazji pozdrawiam wszystki działu utrzymania ruchu, działu info
 Artur Malicki odpowiadał bardziej za kierowanie projektem od strony software'u, a bardziej Kamil od strony hardware/programowania PLC, 
 ja zaś odpowiadałem za wykonanie - ustawianie głowicy lasera, techniczne przeróbki i pozycjownowanie wiązki lasera oraz 
 oprogramowanie małego Api używającego zewnętrzenego (zamkniętoźródłowego) API do sterowania laserem, pobierania i przetwarzania informacji z wewnętrznej bazy danych oraz 
-dodanie obsługi za pomocą najpierw myszy i klawiatury a potem samego czytnika kodów QR. 
+dodanie obsługi za pomocą samego czytnika kodów QR. 
